@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<h1 class="span">SISTEMA ALQUILER DE BICICLETAS</h1>
