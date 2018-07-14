@@ -1,0 +1,26 @@
+
+JORGE CAÑA
+9no Ciclo
+SISTEMA ALQUILER DE BICICLETAS
+_____________________________________________________
+
+LINK BASE DE DATOS : http://phpmyadmin.co/
+
+DATOS DE LA BASE DE DATOS:
+
+Host: sql12.freesqldatabase.com
+Database name: sql12247187
+Database user: sql12247187
+Database password: BBeIsvXC7T
+Port number: 3306
+Numero De Cuenta: 298379
+______________________________________________________
+
+DATOS DE ACCESO AL SISTEMA ADMINISTRADOR ALQUILER DE BICICLETAS:
+
+CORREO: admin@gmail.com
+PASSWORD: 1234
+
+______________________________________________________
+
+NOTA: LA APLICACION SE ENCUENTRA FUNCIONAL
